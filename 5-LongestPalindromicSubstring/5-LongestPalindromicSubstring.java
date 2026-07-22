@@ -1,4 +1,4 @@
-// Last updated: 7/20/2026, 11:07:10 AM
+// Last updated: 7/22/2026, 11:09:13 AM
 1class Solution {
 2    public String longestPalindrome(String s) {
 3        if (s == null || s.length() < 1) return "";
